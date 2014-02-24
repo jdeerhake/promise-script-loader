@@ -1,0 +1,28 @@
+{
+  "name": "promise-script-loader",
+  "version": "0.0.1",
+  "description": "Simple promise-based JS external script loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jdeerhake/promise-script-loader.git"
+  },
+  "keywords": [
+    "script loader",
+    "browser",
+    "browserify",
+    "promise"
+  ],
+  "author": "John Deerhake <jdeerhake@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdeerhake/promise-script-loader/issues"
+  },
+  "homepage": "https://github.com/jdeerhake/promise-script-loader",
+  "dependencies": {
+    "promise": "~4.0.0"
+  }
+}
